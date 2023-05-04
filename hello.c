@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include "print.h"
 int main(){
-	printf("elo");
+	ph();
+	return 0;
 }
